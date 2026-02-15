@@ -1,0 +1,50 @@
+File: CW1_train (1).csv
+Rows: 10,000
+Columns: 31
+Outcome column: outcome
+Missing values (top 10):
+  outcome: 0
+  carat: 0
+  cut: 0
+  color: 0
+  clarity: 0
+  depth: 0
+  table: 0
+  price: 0
+  x: 0
+  y: 0
+Duplicate rows: 0
+Outcome summary stats:
+  count: 10000.0
+  mean: -4.97908145098559
+  std: 12.722223542440839
+  min: -44.8794707759376
+  25%: -13.989962419115125
+  50%: -5.442794149761655
+  75%: 3.918592632198872
+  max: 39.6759662301087
+
+Categorical summaries:
+cut (top 10 by count):
+  Ideal: count=4040.0, mean=-4.44183669035453, median=-4.629800453653695
+  Premium: count=2439.0, mean=-3.5557658707654465, median=-3.60179533090675
+  Very Good: count=2296.0, mean=-5.809101857212325, median=-6.0515061534881145
+  Good: count=925.0, mean=-7.979967735906027, median=-8.35493902273075
+  Fair: count=300.0, mean=-8.180377673846998, median=-8.918984669022496
+color (top 10 by count):
+  G: count=2120.0, mean=-5.68408141053261, median=-6.32899122153209
+  E: count=1873.0, mean=-4.398570789874044, median=-4.64162849651142
+  F: count=1746.0, mean=-4.928178257186076, median=-5.11517380045075
+  H: count=1506.0, mean=-4.341735920344031, median=-4.6317166259768
+  D: count=1246.0, mean=-4.566780204029838, median=-5.240807238017535
+  I: count=983.0, mean=-5.455438711121231, median=-6.05843723816048
+  J: count=526.0, mean=-6.284944695350446, median=-6.610097009975631
+clarity (top 10 by count):
+  SI1: count=2408.0, mean=-5.686017778035715, median=-6.278066572468704
+  VS2: count=2256.0, mean=-5.135118570782275, median=-5.615517721725585
+  SI2: count=1743.0, mean=-4.793542956778258, median=-5.06697055081927
+  VS1: count=1503.0, mean=-4.435145619326117, median=-4.87276612641027
+  VVS2: count=951.0, mean=-4.588576116427798, median=-4.70834159554964
+  VVS1: count=675.0, mean=-4.5116520038991075, median=-4.7910603262208
+  IF: count=318.0, mean=-3.8885957489569694, median=-3.44009577714906
+  I1: count=146.0, mean=-5.802825531687537, median=-6.77473261817317
